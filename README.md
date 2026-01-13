@@ -152,6 +152,28 @@ This work provides a physical mechanism for the "Control bit" in computational t
 4. Wolfram, S. (1983). "Statistical Mechanics of Cellular Automata." *Rev. Mod. Phys.*
 5. Cook, M. (2004). "Universality in Elementary Cellular Automata." *Complex Systems*.
 
+## Research Series
+
+This paper is part of an ongoing multi-paper research project exploring the foundations of computation, self-organization, and life-like behavior in discrete dynamical systems.
+
+### Papers in This Series
+
+| # | Paper | Repository | Key Contribution |
+|---|-------|------------|------------------|
+| 1 | The Five-Bit Threshold (UCT) | [RobinNixon/UCT](https://github.com/RobinNixon/UCT) | Proves minimum complexity for universal computation |
+| **2** | **Stickiness Control** | [This repo](https://github.com/RobinNixon/Stickiness) | Temporal filtering mechanism for self-maintenance |
+| 3 | Self-Maintenance | [RobinNixon/Self-Maintenance](https://github.com/RobinNixon/Self-Maintenance) | Complete framework for engineering life-like behavior |
+| 4 | Substrate Leakiness | [RobinNixon/Leakiness](https://github.com/RobinNixon/Leakiness) | Predictive model for life-like potential |
+
+### Recommended Reading Order
+
+1. **UCT** - Establishes the theoretical foundation: why 5 bits of complexity are necessary and sufficient for universal computation
+2. **Stickiness (this paper)** - Introduces temporal filtering as a mechanism for controlling chaotic dynamics
+3. **Self-Maintenance** - Builds on stickiness to define and measure life-like behavior in cellular automata
+4. **Leakiness** - Synthesizes the framework into a predictive two-axis model for engineering self-maintenance
+
+This paper builds on UCT's complexity threshold by asking: given a system with sufficient complexity for computation, how can chaotic dynamics be tamed to enable self-maintenance? The stickiness mechanism provides the answer.
+
 ## License
 
 MIT License - See [LICENSE](LICENSE) for details.
