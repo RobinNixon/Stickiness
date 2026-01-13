@@ -1,0 +1,394 @@
+[
+  {
+    "rule": 90,
+    "mechanism": "Refractory_2",
+    "control": 0.49897238360855906,
+    "compression": 0.10235,
+    "score": 0.34680416646029444
+  },
+  {
+    "rule": 110,
+    "mechanism": "Refractory_1",
+    "control": 0.5,
+    "compression": 0.0205,
+    "score": 0.25169903802392674
+  },
+  {
+    "rule": 54,
+    "mechanism": "AsymDeath_2",
+    "control": 0.37475920789548556,
+    "compression": 0.04915,
+    "score": 0.22723534987538271
+  },
+  {
+    "rule": 110,
+    "mechanism": "Refractory_3",
+    "control": 0.35006315124093684,
+    "compression": 0.0258,
+    "score": 0.1956670807819694
+  },
+  {
+    "rule": 54,
+    "mechanism": "Refractory_4",
+    "control": 0.6661859744699034,
+    "compression": 0.02395,
+    "score": 0.1949458687650535
+  },
+  {
+    "rule": 54,
+    "mechanism": "AsymDeath_3",
+    "control": 0.34263289222645177,
+    "compression": 0.0461,
+    "score": 0.18937551864993593
+  },
+  {
+    "rule": 110,
+    "mechanism": "Refractory_4",
+    "control": 0.328170616053794,
+    "compression": 0.02485,
+    "score": 0.180715228701196
+  },
+  {
+    "rule": 30,
+    "mechanism": "AsymDeath_2",
+    "control": 0.24803008407134586,
+    "compression": 0.1353,
+    "score": 0.17899414666655647
+  },
+  {
+    "rule": 54,
+    "mechanism": "Refractory_3",
+    "control": 0.6664683720007932,
+    "compression": 0.02395,
+    "score": 0.16724337702605038
+  },
+  {
+    "rule": 90,
+    "mechanism": "AsymDeath_2",
+    "control": 0.23838757919326664,
+    "compression": 0.11345,
+    "score": 0.166923340963545
+  },
+  {
+    "rule": 110,
+    "mechanism": "Refractory_2",
+    "control": 0.37783912273740117,
+    "compression": 0.029,
+    "score": 0.16671227401794694
+  },
+  {
+    "rule": 54,
+    "mechanism": "AsymDeath_4",
+    "control": 0.31136608282272243,
+    "compression": 0.0482,
+    "score": 0.16046098786316104
+  },
+  {
+    "rule": 30,
+    "mechanism": "AsymDeath_3",
+    "control": 0.2176368768857119,
+    "compression": 0.12155,
+    "score": 0.1364204127470935
+  },
+  {
+    "rule": 54,
+    "mechanism": "Refractory_2",
+    "control": 0.6666205305651672,
+    "compression": 0.02375,
+    "score": 0.13615308908386792
+  },
+  {
+    "rule": 105,
+    "mechanism": "AsymDeath_2",
+    "control": 0.2158103804608661,
+    "compression": 0.11335,
+    "score": 0.13567326645621874
+  },
+  {
+    "rule": 90,
+    "mechanism": "AsymDeath_3",
+    "control": 0.1907900939655628,
+    "compression": 0.10935,
+    "score": 0.1328269797763936
+  },
+  {
+    "rule": 54,
+    "mechanism": "Refractory_1",
+    "control": 0.8,
+    "compression": 0.0233,
+    "score": 0.12081657702017823
+  },
+  {
+    "rule": 30,
+    "mechanism": "AsymDeath_4",
+    "control": 0.1862106485124904,
+    "compression": 0.11055,
+    "score": 0.11966049796292297
+  },
+  {
+    "rule": 150,
+    "mechanism": "Refractory_4",
+    "control": 0.25029701600071486,
+    "compression": 0.0173,
+    "score": 0.10838319637526297
+  },
+  {
+    "rule": 90,
+    "mechanism": "AsymDeath_4",
+    "control": 0.1524146056372272,
+    "compression": 0.09795,
+    "score": 0.10191437769651192
+  },
+  {
+    "rule": 110,
+    "mechanism": "AsymDeath_2",
+    "control": 0.22222222222222224,
+    "compression": 0.0221,
+    "score": 0.09092403170606196
+  },
+  {
+    "rule": 110,
+    "mechanism": "AsymDeath_3",
+    "control": 0.15999999999999998,
+    "compression": 0.0203,
+    "score": 0.07890615761971811
+  },
+  {
+    "rule": 118,
+    "mechanism": "AsymDeath_4",
+    "control": 0.2017925960332335,
+    "compression": 0.01975,
+    "score": 0.07626721476709218
+  },
+  {
+    "rule": 62,
+    "mechanism": "AsymDeath_4",
+    "control": 0.2017925960332335,
+    "compression": 0.01965,
+    "score": 0.07625490864127257
+  },
+  {
+    "rule": 62,
+    "mechanism": "AsymDeath_3",
+    "control": 0.22794450685658862,
+    "compression": 0.0198,
+    "score": 0.07478810583896306
+  },
+  {
+    "rule": 118,
+    "mechanism": "AsymDeath_3",
+    "control": 0.2279117637558209,
+    "compression": 0.0197,
+    "score": 0.07476529814069577
+  },
+  {
+    "rule": 105,
+    "mechanism": "Refractory_1",
+    "control": 0.4099342585829072,
+    "compression": 0.0067,
+    "score": 0.04834663800725172
+  },
+  {
+    "rule": 150,
+    "mechanism": "Refractory_3",
+    "control": 0.135556974741228,
+    "compression": 0.01715,
+    "score": 0.046634713828987116
+  },
+  {
+    "rule": 105,
+    "mechanism": "Refractory_2",
+    "control": 0.3834041186521242,
+    "compression": 0.00725,
+    "score": 0.04525873042006714
+  },
+  {
+    "rule": 105,
+    "mechanism": "Refractory_3",
+    "control": 0.34850131891985137,
+    "compression": 0.00725,
+    "score": 0.04113864843048944
+  },
+  {
+    "rule": 105,
+    "mechanism": "Refractory_4",
+    "control": 0.3126353843963734,
+    "compression": 0.00725,
+    "score": 0.036904873718917555
+  },
+  {
+    "rule": 105,
+    "mechanism": "AsymDeath_3",
+    "control": 0.19905672116355805,
+    "compression": 0.0468,
+    "score": 0.036873575899869074
+  },
+  {
+    "rule": 105,
+    "mechanism": "AsymDeath_4",
+    "control": 0.18345761915325876,
+    "compression": 0.04105,
+    "score": 0.03368185924169373
+  },
+  {
+    "rule": 110,
+    "mechanism": "AsymDeath_4",
+    "control": 0.1226659953252464,
+    "compression": 0.02275,
+    "score": 0.03334203780499209
+  },
+  {
+    "rule": 62,
+    "mechanism": "Refractory_4",
+    "control": 0.05373755689159536,
+    "compression": 0.02095,
+    "score": 0.03312723149543781
+  },
+  {
+    "rule": 118,
+    "mechanism": "Refractory_4",
+    "control": 0.05373755689159536,
+    "compression": 0.0206,
+    "score": 0.033108559249647646
+  },
+  {
+    "rule": 30,
+    "mechanism": "Refractory_4",
+    "control": 0.05379025867365997,
+    "compression": 0.0215,
+    "score": 0.033082549866465506
+  },
+  {
+    "rule": 30,
+    "mechanism": "Refractory_3",
+    "control": 0.037677816224529016,
+    "compression": 0.02055,
+    "score": 0.023380968851385155
+  },
+  {
+    "rule": 118,
+    "mechanism": "Refractory_3",
+    "control": 0.037677816224529016,
+    "compression": 0.02005,
+    "score": 0.02335538860800932
+  },
+  {
+    "rule": 62,
+    "mechanism": "Refractory_3",
+    "control": 0.037677816224529016,
+    "compression": 0.01965,
+    "score": 0.023340321830421704
+  },
+  {
+    "rule": 62,
+    "mechanism": "AsymDeath_2",
+    "control": 0.025743447322489246,
+    "compression": 0.02365,
+    "score": 0.013024989904288792
+  },
+  {
+    "rule": 118,
+    "mechanism": "AsymDeath_2",
+    "control": 0.025237472884169176,
+    "compression": 0.0239,
+    "score": 0.012774108967045566
+  },
+  {
+    "rule": 62,
+    "mechanism": "Refractory_2",
+    "control": 0.019600000000000006,
+    "compression": 0.0188,
+    "score": 0.01190354393333823
+  },
+  {
+    "rule": 118,
+    "mechanism": "Refractory_2",
+    "control": 0.019600000000000006,
+    "compression": 0.0188,
+    "score": 0.01190354393333823
+  },
+  {
+    "rule": 30,
+    "mechanism": "Refractory_2",
+    "control": 0.019600000000000006,
+    "compression": 0.01985,
+    "score": 0.011863562781461457
+  },
+  {
+    "rule": 150,
+    "mechanism": "AsymDeath_2",
+    "control": 0.22222222222222224,
+    "compression": 0.01025,
+    "score": 0.010956446889866413
+  },
+  {
+    "rule": 150,
+    "mechanism": "AsymDeath_3",
+    "control": 0.1875,
+    "compression": 0.0102,
+    "score": 0.009243744627678468
+  },
+  {
+    "rule": 150,
+    "mechanism": "AsymDeath_4",
+    "control": 0.16493055555555558,
+    "compression": 0.0102,
+    "score": 0.00813107166323569
+  },
+  {
+    "rule": 150,
+    "mechanism": "Refractory_2",
+    "control": 0.026620370370370367,
+    "compression": 0.01735,
+    "score": 0.006013620614835455
+  },
+  {
+    "rule": 30,
+    "mechanism": "Refractory_1",
+    "control": 0.0,
+    "compression": 0.02335,
+    "score": 0.0
+  },
+  {
+    "rule": 90,
+    "mechanism": "Refractory_1",
+    "control": 0.0,
+    "compression": 0.05535,
+    "score": 0.0
+  },
+  {
+    "rule": 90,
+    "mechanism": "Refractory_3",
+    "control": 0.0,
+    "compression": 0.0143,
+    "score": -0.0
+  },
+  {
+    "rule": 90,
+    "mechanism": "Refractory_4",
+    "control": 0.0,
+    "compression": 0.01445,
+    "score": -0.0
+  },
+  {
+    "rule": 62,
+    "mechanism": "Refractory_1",
+    "control": 0.0,
+    "compression": 0.0151,
+    "score": 0.0
+  },
+  {
+    "rule": 118,
+    "mechanism": "Refractory_1",
+    "control": 0.0,
+    "compression": 0.0151,
+    "score": 0.0
+  },
+  {
+    "rule": 150,
+    "mechanism": "Refractory_1",
+    "control": 0.0,
+    "compression": 0.01745,
+    "score": 0.0
+  }
+]

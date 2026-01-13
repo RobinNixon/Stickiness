@@ -1,0 +1,234 @@
+{
+  "110": {
+    "Standard": {
+      "entropy": 0.9999999997114609,
+      "activity": 0.3162311557788945,
+      "control": 0.0,
+      "compression": 0.09875,
+      "persistence": 3.128421711246676
+    },
+    "Refractory_2": {
+      "entropy": 0.7014714595953584,
+      "activity": 0.15547738693467336,
+      "control": 0.37783912273740117,
+      "compression": 0.029,
+      "persistence": 6.261740763932373
+    },
+    "Refractory_3": {
+      "entropy": 0.8931734580893177,
+      "activity": 0.1278391959798995,
+      "control": 0.35006315124093684,
+      "compression": 0.0258,
+      "persistence": 7.564296520423601
+    },
+    "Confirmation": {
+      "entropy": 0.9997114414642708,
+      "activity": 0.10341708542713567,
+      "control": 0.3749913138481751,
+      "compression": 0.0548,
+      "persistence": 9.267840593141798
+    },
+    "AsymDeath_2": {
+      "entropy": 0.6577047784556804,
+      "activity": 0.25206030150753767,
+      "control": 0.22222222222222224,
+      "compression": 0.0221,
+      "persistence": 3.9093041438623923
+    },
+    "AsymDeath_3": {
+      "entropy": 0.7950402790959832,
+      "activity": 0.18969849246231157,
+      "control": 0.15999999999999998,
+      "compression": 0.0203,
+      "persistence": 5.161290322580645
+    },
+    "MemoryAvg_3": {
+      "entropy": 0.9997114414642708,
+      "activity": 0.10532663316582914,
+      "control": 0.3749723505206139,
+      "compression": 0.05555,
+      "persistence": 9.107468123861567
+    },
+    "NeighborHist": {
+      "entropy": 0.9999999997114609,
+      "activity": 0.3162311557788945,
+      "control": 0.0,
+      "compression": 0.09875,
+      "persistence": 3.128421711246676
+    }
+  },
+  "30": {
+    "Standard": {
+      "entropy": 0.9974015882792006,
+      "activity": 0.44904522613065323,
+      "control": 0.0,
+      "compression": 0.14585,
+      "persistence": 2.213368747233289
+    },
+    "Refractory_2": {
+      "entropy": 0.9765004684692851,
+      "activity": 0.29316582914572864,
+      "control": 0.019600000000000006,
+      "compression": 0.01985,
+      "persistence": 3.370407819346141
+    },
+    "Refractory_3": {
+      "entropy": 0.9999999997114609,
+      "activity": 0.22025125628140704,
+      "control": 0.037677816224529016,
+      "compression": 0.02055,
+      "persistence": 4.461298237787196
+    },
+    "Confirmation": {
+      "entropy": 0.9814538947451146,
+      "activity": 0.19733668341708543,
+      "control": 0.4999859124426077,
+      "compression": 0.08135,
+      "persistence": 4.966476285075739
+    },
+    "AsymDeath_2": {
+      "entropy": 0.9814538947451146,
+      "activity": 0.311105527638191,
+      "control": 0.24803008407134586,
+      "compression": 0.1353,
+      "persistence": 3.1791448100460977
+    },
+    "AsymDeath_3": {
+      "entropy": 0.8687212460508655,
+      "activity": 0.23065326633165828,
+      "control": 0.2176368768857119,
+      "compression": 0.12155,
+      "persistence": 4.264392324093817
+    },
+    "MemoryAvg_3": {
+      "entropy": 0.9953784385316867,
+      "activity": 0.1978391959798995,
+      "control": 0.49997291979468206,
+      "compression": 0.0817,
+      "persistence": 4.954173891503592
+    },
+    "NeighborHist": {
+      "entropy": 0.9974015882792006,
+      "activity": 0.44904522613065323,
+      "control": 0.0,
+      "compression": 0.14585,
+      "persistence": 2.213368747233289
+    }
+  },
+  "90": {
+    "Standard": {
+      "entropy": 0.9043814574359548,
+      "activity": 0.2639698492462312,
+      "control": 0.0,
+      "compression": 0.05275,
+      "persistence": 3.736222678871661
+    },
+    "Refractory_2": {
+      "entropy": 0.9895875209335165,
+      "activity": 0.21150753768844222,
+      "control": 0.49897238360855906,
+      "compression": 0.10235,
+      "persistence": 4.641448131817127
+    },
+    "Refractory_3": {
+      "entropy": -1.4426951601859516e-10,
+      "activity": 0.009899497487437186,
+      "control": 0.0,
+      "compression": 0.0143,
+      "persistence": 67.34006734006734
+    },
+    "Confirmation": {
+      "entropy": -1.4426951601859516e-10,
+      "activity": 5.0251256281407036e-05,
+      "control": 0.0,
+      "compression": 0.0023,
+      "persistence": 198.01980198019803
+    },
+    "AsymDeath_2": {
+      "entropy": 0.9814538947451146,
+      "activity": 0.14849246231155777,
+      "control": 0.23838757919326664,
+      "compression": 0.11345,
+      "persistence": 6.546644844517185
+    },
+    "AsymDeath_3": {
+      "entropy": 0.9814538947451146,
+      "activity": 0.114321608040201,
+      "control": 0.1907900939655628,
+      "compression": 0.10935,
+      "persistence": 8.421052631578947
+    },
+    "MemoryAvg_3": {
+      "entropy": 0.7601675026734266,
+      "activity": 0.07190954773869347,
+      "control": 0.49998691967492703,
+      "compression": 0.0382,
+      "persistence": 13.063357282821686
+    },
+    "NeighborHist": {
+      "entropy": 0.9043814574359548,
+      "activity": 0.2639698492462312,
+      "control": 0.0,
+      "compression": 0.05275,
+      "persistence": 3.736222678871661
+    }
+  },
+  "54": {
+    "Standard": {
+      "entropy": 0.8112781241705938,
+      "activity": 0.6594974874371858,
+      "control": 0.0,
+      "compression": 0.0129,
+      "persistence": 1.5124016938898972
+    },
+    "Refractory_2": {
+      "entropy": 0.32744491886593724,
+      "activity": 0.03703517587939698,
+      "control": 0.6666205305651672,
+      "compression": 0.02375,
+      "persistence": 23.894862604540023
+    },
+    "Refractory_3": {
+      "entropy": 0.4021791899137338,
+      "activity": 0.0357286432160804,
+      "control": 0.6664683720007932,
+      "compression": 0.02395,
+      "persistence": 24.66091245376079
+    },
+    "Confirmation": {
+      "entropy": 0.8112781241705938,
+      "activity": 0.28261306532663316,
+      "control": 0.75,
+      "compression": 0.0168,
+      "persistence": 3.4940600978336827
+    },
+    "AsymDeath_2": {
+      "entropy": 0.9340680550869519,
+      "activity": 0.5196984924623116,
+      "control": 0.37475920789548556,
+      "compression": 0.04915,
+      "persistence": 1.915341888527102
+    },
+    "AsymDeath_3": {
+      "entropy": 0.8554508102715916,
+      "activity": 0.40678391959798993,
+      "control": 0.34263289222645177,
+      "compression": 0.0461,
+      "persistence": 2.4405125076266017
+    },
+    "MemoryAvg_3": {
+      "entropy": -1.4426951601859516e-10,
+      "activity": 0.1787437185929648,
+      "control": 0.0,
+      "compression": 0.04065,
+      "persistence": 5.468963631391851
+    },
+    "NeighborHist": {
+      "entropy": 0.8112781241705938,
+      "activity": 0.6594974874371858,
+      "control": 0.0,
+      "compression": 0.0129,
+      "persistence": 1.5124016938898972
+    }
+  }
+}

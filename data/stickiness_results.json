@@ -1,0 +1,128 @@
+{
+  "ECA_110": {
+    "entropy": 0.9999999997114609,
+    "activity": 0.3162311557788945,
+    "persistence": 3.128421711246676,
+    "asymmetry": 0.00778642936596218,
+    "control_proxy": 0.0
+  },
+  "ECA_30": {
+    "entropy": 0.9974015882792006,
+    "activity": 0.44904522613065323,
+    "persistence": 2.213368747233289,
+    "asymmetry": 0.005819158460161146,
+    "control_proxy": 0.0
+  },
+  "ECA_90": {
+    "entropy": 0.9043814574359548,
+    "activity": 0.2639698492462312,
+    "persistence": 3.736222678871661,
+    "asymmetry": 0.005901389682086427,
+    "control_proxy": 0.0
+  },
+  "ECA_184": {
+    "entropy": 0.08079313560737217,
+    "activity": 0.02,
+    "persistence": 40.16064257028113,
+    "asymmetry": 0.0,
+    "control_proxy": 0.0
+  },
+  "SecondOrder_110": {
+    "entropy": 0.9997114414642708,
+    "activity": 0.39095477386934674,
+    "persistence": 2.5380710659898478,
+    "asymmetry": 0.006426735218508998,
+    "control_proxy": 0.9374257453365044
+  },
+  "SecondOrder_30": {
+    "entropy": 0.9858150368903809,
+    "activity": 0.29738693467336685,
+    "persistence": 3.3233632436025258,
+    "asymmetry": 0.0070969922271037515,
+    "control_proxy": 0.8388894666800171
+  },
+  "SecondOrder_90": {
+    "entropy": -1.4426951601859516e-10,
+    "activity": 0.502462311557789,
+    "persistence": 1.9803940984255868,
+    "asymmetry": 0.00010001000100010001,
+    "control_proxy": 0.4000760258914323
+  },
+  "GH_refract2": {
+    "entropy": -1.4426951601859516e-10,
+    "activity": 0.014974874371859298,
+    "persistence": 50.25125628140704,
+    "asymmetry": 0.010101010101010102,
+    "control_proxy": 0.0
+  },
+  "GH_refract3": {
+    "entropy": -1.4426951601859516e-10,
+    "activity": 0.02,
+    "persistence": 40.16064257028113,
+    "asymmetry": 0.010101010101010102,
+    "control_proxy": 0.0
+  },
+  "GH_refract4": {
+    "entropy": -1.4426951601859516e-10,
+    "activity": 0.0250251256281407,
+    "persistence": 33.44481605351171,
+    "asymmetry": 0.010101010101010102,
+    "control_proxy": 0.0
+  },
+  "GH_refract5": {
+    "entropy": -1.4426951601859516e-10,
+    "activity": 0.030050251256281406,
+    "persistence": 28.653295128939828,
+    "asymmetry": 0.010101010101010102,
+    "control_proxy": 0.0
+  },
+  "Thresh_b1_d1": {
+    "entropy": 0.9999999997114609,
+    "activity": 0.8793467336683417,
+    "persistence": 1.1364282061480766,
+    "asymmetry": 0.0028001600091433795,
+    "control_proxy": 0.0
+  },
+  "Thresh_b1_d2": {
+    "entropy": 0.9999999997114609,
+    "activity": 0.8793467336683417,
+    "persistence": 1.1364282061480766,
+    "asymmetry": 0.0028001600091433795,
+    "control_proxy": 0.0
+  },
+  "Thresh_b1_d3": {
+    "entropy": 0.9999999997114609,
+    "activity": 0.8793467336683417,
+    "persistence": 1.1364282061480766,
+    "asymmetry": 0.0028001600091433795,
+    "control_proxy": 0.0
+  },
+  "HistWeight_0.1": {
+    "entropy": 0.9999999997114609,
+    "activity": 0.3162311557788945,
+    "persistence": 3.128421711246676,
+    "asymmetry": 0.00778642936596218,
+    "control_proxy": 0.0
+  },
+  "HistWeight_0.3": {
+    "entropy": 0.9999999997114609,
+    "activity": 0.3162311557788945,
+    "persistence": 3.128421711246676,
+    "asymmetry": 0.00778642936596218,
+    "control_proxy": 0.0
+  },
+  "HistWeight_0.5": {
+    "entropy": 0.9858150368903809,
+    "activity": 0.21477386934673365,
+    "persistence": 4.572473708276178,
+    "asymmetry": 0.013102480112306972,
+    "control_proxy": 0.0308376019940586
+  },
+  "HistWeight_0.7": {
+    "entropy": 0.8267463722040789,
+    "activity": 0.24045226130653266,
+    "persistence": 4.094165813715455,
+    "asymmetry": 0.015256008359456636,
+    "control_proxy": 0.14850112757985962
+  }
+}
